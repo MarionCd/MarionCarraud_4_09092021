@@ -825,6 +825,12 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.argument{
+    font-size:24px;
+
+}
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
