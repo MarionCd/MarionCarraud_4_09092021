@@ -831,6 +831,13 @@ h4 {
 
 }
 
+.sous-titre{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333 !important;
+}
+
 
 @media (max-width: 1024px) {
     .bloc {
