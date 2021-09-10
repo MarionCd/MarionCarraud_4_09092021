@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -827,6 +827,7 @@ h4 {
 
 .argument{
     font-size:24px;
+    margin:5px 90px;
 
 }
 
