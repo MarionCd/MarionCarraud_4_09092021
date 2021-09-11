@@ -857,6 +857,9 @@ h4 {
     padding:20px;
 }
 
+.partenaires{
+    color:#fff;
+}
 
 @media (max-width: 1024px) {
     .bloc {
