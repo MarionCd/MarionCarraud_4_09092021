@@ -866,8 +866,8 @@ h4 {
     color:#15120C;
 }
 
-.reseaux-sociaux .icon-md{
-    color:#15120C;
+.social .icon-md{
+    color:#15120C !important;
 }
 
 @media (max-width: 1024px) {
