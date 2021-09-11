@@ -339,7 +339,7 @@ a:hover {
 }
 .nav > li a:focus {
     background: transparent;
-    border: 4px dashed #000;
+    border: 2px dashed #000;
 }
 
 .navbar-toggle {
@@ -467,7 +467,7 @@ nav .caret {
 }
 
 .btn-d:focus{
-    border: 4px dashed #000;
+    border: 2px dashed #000;
 }
 .btn-d:active{
     border:none;
@@ -863,14 +863,14 @@ h4 {
 }
 
 .crea  a:focus{
-    border:4px dotted #fff;
+    border:2px dotted #fff;
 }
 .crea a:active{
     border:none;
 }
 
 button:focus{
-    border:4px dotted #000;
+    border:2px dotted #000;
 }
 button:active{
     border:none;
@@ -903,7 +903,7 @@ button:active{
 }
 
 a:focus{
-    border: 4px dashed #000;
+    border: 2px dashed #000;
 }
 a:active{
     border:none;
