@@ -851,6 +851,14 @@ h4 {
 .contact{
     font-size:21px;
 }
+
+a:focus .contact{
+    border:2px dotted #fff;
+}
+
+button:focus{
+    border:2px dotted #000;
+}
 .missions{
     font-size:22px;
 }
@@ -876,6 +884,10 @@ h4 {
 }
 .bloc-parlons{
     background-color:#683420;
+}
+
+a:focus{
+    border: 1px dashed #000;
 }
 @media (max-width: 1024px) {
     .bloc {
@@ -941,9 +953,7 @@ h4 {
     }
 }
 
-a:focus{
-    border: 1px dashed #000;
-}
+
 
 @media (max-width: 767px) {
     .page-container {
