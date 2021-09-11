@@ -888,8 +888,8 @@ button:active{
     font-size:21px;
 }
 
-.partenaires li,
-.partenaires li a{
+.partenaires ul li,
+.partenaires ul li a{
     color:#15120C;
 }
 
