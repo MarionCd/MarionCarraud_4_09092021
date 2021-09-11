@@ -335,6 +335,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    border: 1px dashed #000;
 }
 
 .navbar-toggle {
@@ -449,7 +450,7 @@ nav .caret {
     margin: 0 5px 5px 0;
 }
 
-.btn.pull-right {
+.btn .pull-right {
     margin: 0 0 5px 5px;
 }
 
@@ -458,6 +459,7 @@ nav .caret {
 .btn-d:focus {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
+    border:1px dashed #000;
 }
 
 button {
