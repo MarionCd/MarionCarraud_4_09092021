@@ -867,10 +867,10 @@ h4 {
 }
 
 .social .icon-md{
-    color:#15120C ;
+    color:#15120C !important ;
 }
 .social .icon-md:hover{
-    color:#fff;
+    color:#fff !important;
 }
 
 @media (max-width: 1024px) {
