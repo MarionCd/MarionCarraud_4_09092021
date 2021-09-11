@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -828,6 +828,7 @@ h4 {
 .argument{
     font-size:24px;
     margin:5px 90px;
+    color:#64615c;
 
 }
 
@@ -836,6 +837,14 @@ h4 {
     text-transform: uppercase;
     font-weight: 700;
     color: #333333 !important;
+}
+
+.citation{
+    color:#64615c;
+    font-size:21px;
+}
+.citation-legende{
+    font-size:14px;
 }
 
 
