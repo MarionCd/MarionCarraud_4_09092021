@@ -869,6 +869,9 @@ h4 {
 .social .icon-md{
     color:#15120C !important;
 }
+.social .icon-md:hover{
+    color:#fff;
+}
 
 @media (max-width: 1024px) {
     .bloc {
