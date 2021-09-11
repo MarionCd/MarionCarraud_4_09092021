@@ -332,8 +332,10 @@ a:hover {
     text-align: inherit;
 }
 
-.nav > li a:hover{
+.nav > li a:hover,
+.nav > li a:active{
     background:transparent;
+    border:none;
 }
 .nav > li a:focus {
     background: transparent;
@@ -467,7 +469,9 @@ nav .caret {
 .btn-d:focus{
     border: 4px dashed #000;
 }
-
+.btn-d:active{
+    border:none;
+}
 button {
     outline: none!important;
 }
@@ -861,9 +865,15 @@ h4 {
 .crea  a:focus{
     border:4px dotted #fff;
 }
+.crea a:active{
+    border:none;
+}
 
 button:focus{
     border:4px dotted #000;
+}
+button:active{
+    border:none;
 }
 .missions{
     font-size:22px;
@@ -894,6 +904,9 @@ button:focus{
 
 a:focus{
     border: 4px dashed #000;
+}
+a:active{
+    border:none;
 }
 @media (max-width: 1024px) {
     .bloc {
