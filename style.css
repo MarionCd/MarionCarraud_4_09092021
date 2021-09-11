@@ -872,7 +872,9 @@ h4 {
 .social .icon-md:hover{
     color:#fff !important;
 }
-
+.bloc-parlons{
+    background-color:#683420;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
