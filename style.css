@@ -846,6 +846,12 @@ h4 {
 .citation-legende{
     font-size:14px;
 }
+.contact{
+    font-size:21px;
+}
+.contact:hover{
+    font-color:#F3976C;
+}
 
 
 @media (max-width: 1024px) {
