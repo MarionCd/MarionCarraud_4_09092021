@@ -859,6 +859,15 @@ h4 {
 
 .partenaires{
     color:#fff;
+    font-size:21px;
+}
+
+.partenaires li{
+    color:#15120C;
+}
+
+.reseaux-sociaux .icon-md{
+    color:#15120C;
 }
 
 @media (max-width: 1024px) {
