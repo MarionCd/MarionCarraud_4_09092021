@@ -335,7 +335,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
-    border: 1px dashed #000;
+    border: 4px dashed #000;
 }
 
 .navbar-toggle {
@@ -459,7 +459,7 @@ nav .caret {
 .btn-d:focus {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
-    border:1px dashed #000;
+    border: 4px dashed #000;
 }
 
 button {
@@ -852,12 +852,12 @@ h4 {
     font-size:21px;
 }
 
-.contact:focus{
-    border:2px dotted #fff;
+.crea  a:focus{
+    border:4px dotted #fff;
 }
 
 button:focus{
-    border:2px dotted #000;
+    border:4px dotted #000;
 }
 .missions{
     font-size:22px;
@@ -887,7 +887,7 @@ button:focus{
 }
 
 a:focus{
-    border: 1px dashed #000;
+    border: 4px dashed #000;
 }
 @media (max-width: 1024px) {
     .bloc {
