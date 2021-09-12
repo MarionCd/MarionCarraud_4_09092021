@@ -17,7 +17,7 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+/*
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -26,7 +26,7 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+*/
 .bloc {
     width: 100%;
     clear: both;
@@ -777,10 +777,10 @@ h4 {
 .bgc-white {
     background-color: #FFFFFF;
 }
-
+/*
 .bgc-dark-slate-blue {
     background-color: #364577;
-}
+}*/
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
