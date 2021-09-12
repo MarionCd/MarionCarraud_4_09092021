@@ -893,6 +893,11 @@ button:active{
     color:#15120C;
 }
 
+.partenaires ul li a:hover{
+    color:#fff;
+}
+
+
 .social .icon-md{
     color:#15120C !important ;
 }
