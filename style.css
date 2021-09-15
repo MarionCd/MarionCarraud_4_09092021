@@ -444,7 +444,7 @@ nav .caret {
 .btn {
     margin: 0 5px 5px 0;
 }
-/*
+
 .btn .pull-right {
     margin: 0 0 5px 5px;
 }
@@ -465,7 +465,7 @@ nav .caret {
 }
 button {
     outline: none!important;
-}*/
+}
 
 .btn-rd {
     border-radius: 40px;
@@ -512,7 +512,7 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
-
+*/
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -532,7 +532,7 @@ button {
     font-size: 14px;
     opacity: 1;
 }
-*/
+
 a[data-lightbox] {
     position: relative;
     display: block;
