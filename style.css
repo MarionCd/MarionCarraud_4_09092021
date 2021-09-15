@@ -912,7 +912,7 @@ a:active{
 
 .img-responsive{
     width:320px;
-    height:320px;
+    height:270px;
 }
 @media (max-width: 1024px) {
     .bloc {
