@@ -911,8 +911,8 @@ a:active{
 }
 
 .img-responsive{
-    width:100%;
-    height:auto;
+    width:320px;
+    height:320px;
 }
 @media (max-width: 1024px) {
     .bloc {
