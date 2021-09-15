@@ -538,7 +538,7 @@ a[data-lightbox] {
     display: block;
     text-align: center;
 }
-/*
+
 a[data-lightbox]:hover::before {
     content: "+";
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
@@ -641,7 +641,7 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-*/
+
 h1,
 h2,
 h3,
