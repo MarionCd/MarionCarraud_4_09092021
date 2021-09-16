@@ -489,7 +489,7 @@ button {
 .sm-shadow {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .3);
 }
-/*
+
 .panel-sq,
 .panel-sq .panel-heading,
 .panel-sq .panel-footer {
@@ -512,7 +512,7 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
-*/
+
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -914,9 +914,7 @@ a:active{
     width:320px;
     height:270px;
 }
-input{
-    border:2px solid blue;
-}
+
 input:invalid{
     border:2px solid red;
 }
@@ -925,9 +923,6 @@ input:invalid{
     font-size:14px;
 }
 
-input:invalid .avertissement{
-    text-decoration:underline;
-}
 
 @media (max-width: 1024px) {
     .bloc {
