@@ -914,6 +914,19 @@ a:active{
     width:320px;
     height:270px;
 }
+
+input:invalid{
+    border:2px solid red;
+}
+
+.avertissement{
+    font-size:14px;
+}
+
+input:invalid .avertissement{
+    text-decoration:underline;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -931,6 +944,7 @@ a:active{
         height:auto;
     }
 }
+
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
