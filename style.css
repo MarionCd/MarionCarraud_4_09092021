@@ -915,9 +915,6 @@ a:active{
     height:270px;
 }
 
-input:invalid{
-    border:2px solid red;
-}
 
 .avertissement{
     font-size:14px;
